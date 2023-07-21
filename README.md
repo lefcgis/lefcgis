@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **GIS project management**.
 
-- 🌱 Actually I'm learning **React**, **NodeJS** & **Django**.
+- 🌱 Actually I'm learning **React** & **Django**.
 
 - 👯 I’m looking to collaborate on **Universal GIS projects**.
 
