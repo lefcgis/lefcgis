@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **QGIS, PostGIS**.
 
-- 📫 How to reach me **lefcgis@gmail.com**
+- 📫 How to reach me **luis.ferrer.c@uni.pe**
 
 - ⚡ Fun fact **Cooking.**
 
