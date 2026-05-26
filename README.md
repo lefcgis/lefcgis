@@ -15,8 +15,6 @@
  <img align="left" alt="GIF" src="https://media.giphy.com/media/5SKwQMGTR1umLrKC7N/giphy.gif" />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lefcgis" alt="lefcgis" /></a> </p>
-
 
 - 🔭 I’m currently working on **GIS project management**.
 
