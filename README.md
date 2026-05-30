@@ -17,10 +17,10 @@
       <br>
       <ul>
         <li>🔭 I’m currently working on <b>GIS project management</b>.</li>
-        <li>🌱 Actually I'm learning <b>React</b> & <b>Django</b>.</li>
+        <li>🌱 Actually I'm learning <b>ML</b> & <b>DevOps</b>.</li>
         <li>👯 I’m looking to collaborate on <b>Universal GIS projects</b>.</li>
         <li>🤝 I want to help with <b>Dog shelters</b> and as <b>pet trainer</b>. 🐕🚶🏻</li>
-        <li>💬 Ask me about <b>QGIS, PostGIS</b>.</li>
+        <li>💬 Ask me about <b>QGIS, PostGIS, AI, Metal Music</b>.</li>
         <li>📫 How to reach me <b><a href="mailto:luis.ferrer.c@uni.pe">luis.ferrer.c@uni.pe</a></b></li>
         <li>⚡ Fun fact <b>Cooking</b>.</li>
       </ul>
